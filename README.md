@@ -1,2 +1,2 @@
-# HomeLab-Docs
-Documentation for my homelab (HomeLab 2.0)
+# HomeLab
+Documentation, build log, website/blog for my HomeLab 2.0.
